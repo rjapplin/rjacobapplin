@@ -1,0 +1,8 @@
+says that SAS is better than R
+says that R is better than SAS
+refuses to use R Studio
+says that gEcon can't be installed using install.packages()
+finds out he's been seated with his class at the Omicron Delta Epsilon Banquet
+starts talking about how great SAS is
+starts talking about how great R is
+is taking forever to install a package because he refuses to use R Studio

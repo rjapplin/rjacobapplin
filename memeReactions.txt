@@ -1,0 +1,9 @@
+When your forecasting professor refuses to use R Studio
+Waiting on your forecasting professor to install a package like
+When your forecasting professor tells you that you can't install gEcon using R Studio
+When your forecasting professor encouratges the whole class to try new things but refuses to try R Studio
+When your data methods professor starts talking about how great SAS is
+When your forecasting professor finds out he's been seated with his forecasting class at the Omicron Delta Epsilon Banquet
+When your data methods professor says that SAS is better than R
+When your forecasting professor says that R is better than SAS
+
